@@ -47290,5 +47290,12 @@
     "author": "Ferenc Kiss",
     "description": "Automatically number headings in your notes based on folder structure and a configurable format. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "kicsifercsi/obsidian-headnumatic"
-  }
+  },
+	{
+		"id": "word-weave",
+		"name": "Word Weave",
+		"author": "jgxdb",
+		"description": "Turn a vocabulary list into a graded English article via LLM, with target words highlighted, translations and phrase bank.",
+		"repo": "jgxdb/word-weave"
+	}
 ]
