@@ -47295,7 +47295,7 @@
 		"id": "word-weave",
 		"name": "Word Weave",
 		"author": "jgxdb",
-		"description": "Turn a vocabulary list into a graded English article via LLM, with target words highlighted, translations and phrase bank.",
+		"description": "Turn vocabulary lists into graded English passages with an LLM — target words highlighted in context, with translations and a phrase bank. Helps language learners master words through real usage, not rote memorization.",
 		"repo": "jgxdb/word-weave"
 	}
 ]
